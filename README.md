@@ -69,35 +69,7 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahelnaggar&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 💼 What I'm Looking For
 
-<div align="center">
-  
-  ```typescript
-  interface CareerGoals {
-    seeking: string[];
-    interests: string[];
-    collaboration: boolean;
-    mentorship: boolean;
-  }
-
-  const myGoals: CareerGoals = {
-    seeking: [
-      "🎓 Training Opportunities in React & TypeScript",
-      "🚀 Frontend Development Positions", 
-      "🌟 Open Source Contributions"
-    ],
-    interests: [
-      "UI/UX Design", 
-      "Performance Optimization", 
-      "Accessibility",
-      "Modern Web Standards"
-    ],
-    collaboration: true,
-    mentorship: true
-  };
-  ```
-  
 </div>
 
 ## 🌟 Featured Projects
@@ -144,53 +116,6 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
   
 </div>
 
-## 🎯 Current Learning Journey
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdelfattahelnaggar&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Coding Time" />
-  
-</div>
-
-## 🎨 Skills Progress
-
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/React-85%25-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
-  ![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-  
-</div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-  
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
-  
-  <br/>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
   
   <br/><br/>
   
