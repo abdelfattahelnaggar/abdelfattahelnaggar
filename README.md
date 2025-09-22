@@ -36,7 +36,7 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,npm,webpack&theme=dark" alt="Tools" />
   
   ### 🎯 Currently Learning
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,firebase&theme=dark" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" alt="Learning" />
   
 </div>
 
@@ -54,9 +54,6 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
       <td>
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=abdelfattahelnaggar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
       </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfattahelnaggar&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-      </td>
     </tr>
   </table>
 </div>
@@ -72,30 +69,8 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
 
 </div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelfattahelnaggar&repo=your-best-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/abdelfattahelnaggar/your-best-project)
-  
-  *🚧 More amazing projects coming soon! Stay tuned...*
-  
-</div>
 
-## 📈 Coding Activity
-
-<div align="center">
-  
-  <!--START_SECTION:waka-->
-  ```text
-  TypeScript   8 hrs 15 mins   ████████████▓░░░░░░░░░░░░   50.25 %
-  JavaScript   4 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 %
-  React        2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-  CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-  ```
-  <!--END_SECTION:waka-->
-  
-</div>
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -119,10 +94,7 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
   
   <br/><br/>
   
-  <i>⭐️ From <a href="https://github.com/abdelfattahelnaggar">AbdelfattahElnaggar</a> with ❤️ - Let's build something amazing together!</i>
+  <i>⭐️ From <a href="https://github.com/abdelfattahelnaggar">Abdelfattah Elnaggar</a> with ❤️ - Let's build something amazing together!</i>
   
-  <br/>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/abdelfattahelnaggar/count.svg)
   
 </div>
