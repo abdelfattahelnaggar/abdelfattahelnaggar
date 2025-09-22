@@ -43,7 +43,7 @@ I'm a passionate **Frontend Developer** with a strong focus on building modern, 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdelfattahelnaggar&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdelfattahelnaggar&theme=radical&no-frame=true&no-bg=false&margin-w=4&rows=1&column=4" alt="GitHub Trophies" />
 </div>
 
 ## 📊 GitHub Analytics
